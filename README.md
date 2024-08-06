@@ -1,5 +1,5 @@
 # Naija-Pizza
-This project is deeloped using HTML, Materialize CSS PHP & MySQL
+This project is deeloped using HTML, Materialize CSS, PHP & MySQL
 
 For all Pizza enthusiasts, 
 Design and add your dream pizza
